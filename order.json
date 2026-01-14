@@ -1,0 +1,7 @@
+{
+  "customerName": "Ana",
+  "items": [
+    { "name": "MacBook", "qty": 1 }
+  ],
+  "notes": "Entrega"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remera Vexara",
+  "description": "Remera negra, talle M",
+  "price": 15000,
+  "imageUrl": "https://via.placeholder.com/600x400",
+  "stock": 10,
+  "active": true
+}
